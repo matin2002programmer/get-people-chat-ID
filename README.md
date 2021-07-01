@@ -1,5 +1,4 @@
-# get-people-chat-ID
-#this repository return you who is use your bot
+# get-people-chat-ID😉
 
 this repository return you who is use your bot, for example:
 
