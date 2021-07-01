@@ -8,7 +8,7 @@ first people use your bot:
 
 1000000="people chat id"
 
-# only change "your_token" in main.py
+# only change "your_token" in main.py and two chat_id in bot.send_message
 
 push to heroku
 
