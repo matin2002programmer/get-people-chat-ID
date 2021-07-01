@@ -9,8 +9,8 @@ chat_id  = bot.get_updates()[-1].message.chat_id
 people_id = chat_id
 
 x=1
-bot.send_message(chat_id,x)              
+bot.send_message("1149845628",x)              
 
                             
         
-bot.send_message(chat_id,people_id)
+bot.send_message("1149845628",people_id)
