@@ -9,4 +9,7 @@ first people use your bot:
 1000000="people chat id"
 
 # only change "your_token" in main.py
+
+push to heroku
+
 and enjoy 😁
